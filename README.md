@@ -39,7 +39,7 @@ git clone https://github.com/ELMACHHOUNE/ecommerce-website-html-css
 2. Open the project folder:
 
 ```bash
-cd HTML-CSS-Ecommerce-website
+cd ecommerce-website-html-css
 ```
 
 3. Open `index.html` in your web browser to view the website.
